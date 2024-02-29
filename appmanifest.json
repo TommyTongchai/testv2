@@ -1,0 +1,41 @@
+{
+	"name": "Chiang Rai",
+	"short_name": "Chiang Rai",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "any",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/icon-17.png",
+			"sizes": "16x16",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-33.png",
+			"sizes": "32x33",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-65.png",
+			"sizes": "64x65",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-129.png",
+			"sizes": "128x130",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-257.png",
+			"sizes": "256x260",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-513.png",
+			"sizes": "512x519",
+			"type": "image/png"
+		}
+	]
+}
